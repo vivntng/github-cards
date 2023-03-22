@@ -1,3 +1,5 @@
+Note: This is the second repository of the GitHub Cards React app. This repository is able to be hosted on GitHub pages. This is the link to the original repo with commits that document gradual progress of the app. https://github.com/vivntng/githubCards
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
